@@ -32,7 +32,7 @@ cacheSolve <- function(x, ...) {
   m
 }
 
-## This function 
+## Function to test cacheSolve and makeCacheMatrix
 tester <- function(){
   ## create the test matrix
   #mattest = matrix(1:4,2,2)
